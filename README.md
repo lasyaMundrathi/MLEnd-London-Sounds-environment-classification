@@ -7,7 +7,7 @@ Using the MLEnd London Sounds dataset, building a machine learning pipeline that
 
 We will be using Supervised Machine Learning Models by using features from the librosa python package to retrive information.
 
-What's Intresting about it
+*What's Intresting about it*
 
 Audio files are complex data types. Specifically they are discrete signals or time series, consisting of values on a temporal window/dimension.This project gives an insight to work with different audio features to classify its environment.
 

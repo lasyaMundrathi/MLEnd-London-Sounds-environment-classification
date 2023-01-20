@@ -1,4 +1,5 @@
 # Machine-Learning-Audio-Classification
+![image](https://user-images.githubusercontent.com/98383338/213648125-a0fcc678-06bc-4e18-b1ea-d8ec01b22e92.png)
 
 Using the MLEnd London Sounds dataset, building a machine learning pipeline that takes as an input an audio segment and predicting whether the audio segment has been recorded indoors or outdoors. The problem here is to classify the 7 seconds audio by intrepreting its acoustic environment Indoor or Outdoor.
 

@@ -23,7 +23,7 @@ The csv file consists of name of the audio files along with the Area Spot, envir
 
 Feature Extraction
 
-In this stage we are loading a collection of audio files which are imported from google drive along with the dataframe where name of the audio file is given as index. Here we are extracting spectral features like    using librosa library using different functions. It returns and array(X) of these features and a binary boolean label y which is True for Indoor and False for Outdoor.
+In this stage we are loading a collection of audio files which are imported from google drive along with the dataframe where name of the audio file is given as index. Here we are extracting spectral features like Spectral Bandwidth, Zero crossings rate, Tempo, Mel Frequency Cepstral Coefficients feature(MFCC) using librosa library using different functions. It returns and array(X) of these features and a binary boolean label y which is True for Indoor and False for Outdoor.
 
 Feature Analysis
 
